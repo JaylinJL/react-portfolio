@@ -8,8 +8,8 @@ export default function Layout() {
     
        <header
         style={{
-          display: "grid",
-          gridTemplateColumns: "1fr auto 1fr",
+          display: "flex",
+          justifyContent: "space-between",
           alignItems: "center",
           padding: "10px 60px",
           borderBottom: "1px solid #eee",
@@ -30,10 +30,10 @@ export default function Layout() {
         <img src={logo} alt="Logo" style={{ height: "60px" }} />
       </Link>
 
-      {/* Banner */}
+      {/* Banner
       <div style={{ justifySelf: "center" }}>
-        <img src={banner} alt="Jongwon Lee" style={{ height: "60px" }} />
-      </div>
+        <img src={banner} alt="Jong Lee" style={{ height: "60px" }} />
+      </div>*/}
 
       {/* Nav */}
       <nav style={{ justifySelf: "end" }}>

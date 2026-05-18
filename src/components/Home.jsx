@@ -17,7 +17,7 @@ export default function Home() {
             <h1></h1>
             <br/>
             <p style={{ fontSize: '28px', fontWeight: '620', marginBottom: '10px' }}>
-                Hi, I'm Jongwon Lee
+                Hi, I'm Jay Lee
             </p>
             <div style={{
                 width: '100px',

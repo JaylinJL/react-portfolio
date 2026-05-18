@@ -14,10 +14,9 @@ export default function About() {
                     marginLeft: 'auto',
                     marginRight: 'auto',
                     textAlign: 'center',
-                    lineHeight: '1.6'}}>My name is Jongwon Lee, and I am a graduate of the Software Engineering Technician Program at Centennial College.
-                    <br /> I have worked on practical projects that helped me strengthen my problem-solving, teamwork, and technical skills.  
-                    <br /> I am passionate about continuing to expand my technical knowledge and gaining new development experience.
-                    <br /> I am currently looking for opportunities to grow as a developer and contribute to a development team.
+                    lineHeight: '1.6'}}>My name is Jay Lee, and I am a graduate of the Software Engineering Technician Program at Centennial College.
+                    <br /> I have worked on a range of projects that helped strengthen my problem-solving, teamwork, and technical skills.  
+                    I enjoy building applications to further develop my experience, and I am currently looking for opportunities to grow as a developer and contribute to a development team.
         </p>
         <a
             href="../resume.pdf"

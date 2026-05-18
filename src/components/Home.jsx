@@ -36,7 +36,6 @@ export default function Home() {
             <p style={{ fontSize: '20px', opacity: 0.8 }}>
             Currently focused on improving my programming and software development skills.
             </p>
-            {/*<p>You can sign up or sign in if you are already registered.</p>*/}
         </div>
     </div>
 )

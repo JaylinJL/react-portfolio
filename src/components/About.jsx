@@ -5,7 +5,7 @@ export default function About() {
     return (
     <div className="container mt-4">
         <h1 style={{ fontSize: '28px', fontWeight: '820', marginTop: '30px', marginBottom: '40px' }}> About Me</h1>
-        <img src={image} alt="Image" className="image" />
+        {/*<img src={image} alt="Image" className="image" />*/}
         <p style={{ fontSize: '20px',
                     opacity: 0.8,
                     marginTop: '40px',

@@ -1,7 +1,3 @@
-// File Name: main.jsx
-// Student Name: Jongwon Lee
-// Student ID: 401380980
-// Date: May 18, 2025
 
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'

@@ -59,15 +59,17 @@ export default function Services() {
 const gridStyle = {
     display: 'grid',
     gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))',
-    gap: '50px',
+    gap: '60px',
 };
 
 /* Card Styling */
 const cardStyle = {
     backgroundColor: '#ffffff',
     padding: '40px',
-    borderRadius: '15px',
-    boxShadow: '0 10px 10px #b4bf88',
+    borderRadius: '20px',
+    boxShadow: '0 10px 20px #b4bf88',
+    marginBottom: '40px',
+    marginTop: '20px'
 };
 
 /* Title Styling */

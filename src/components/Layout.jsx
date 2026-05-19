@@ -11,7 +11,7 @@ export default function Layout() {
           display: "flex",
           justifyContent: "space-between",
           alignItems: "center",
-          padding: "10px 60px",
+          padding: "10px 20px",
           borderBottom: "1px solid #eee",
           backgroundColor: "#b4bf88",
         }}
@@ -40,10 +40,11 @@ export default function Layout() {
         <ul
           style={{
             display: "flex",
-            gap: "30px",
+            gap: "50px",
             listStyle: "none",
             margin: 0,
             padding: 0,
+            flexWrap: "wrap"
           }}
         >
           <li><Link to="/" style={linkStyle}>Home</Link></li>
